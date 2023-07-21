@@ -15,10 +15,10 @@ Healthify is an AssessMed assesment system for medical institutions to generate 
 
 To get started with Healthify, follow these steps:
 
-1. :open_file_folder: [Clone the repository](https://apoorvmaurya.github.io/healthify/):
+1. :open_file_folder: [Clone the repository](https://apoorvmaurya.github.io/AssessMed/):
 
    ```shell
-   https://github.com/apoorvmaurya/healthify.git
+   https://github.com/apoorvmaurya/AssessMed.git
 :globe_with_meridians: Open the home.html file in a web browser to access the Healthify application.
 
 :compass: Navigate through the different sections to learn about disease risk prediction and access the disease index.
