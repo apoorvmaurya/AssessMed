@@ -26,4 +26,4 @@ To get started with Healthify, follow these steps:
 
 ## Contributing 🤝
 
-_*If you would like to contribute to the development of the healthify, please fork the repository and submit a pull request. Let's make the healthify even better together! and live a healthyh life*_ 🌟🎉
+If you would like to contribute to the development of the healthify, please fork the repository and submit a pull request. Let's make the healthify even better together! and live a healthyh life 🌟🎉
